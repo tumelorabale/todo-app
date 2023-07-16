@@ -56,7 +56,7 @@ function App() {
 
   return (
     <div className="app-background">
-      <p className="heading-text">Todo-APP</p>
+      <p className="heading-text">TODO APP</p>
       <DateTime/>
       <div className="task-container">
         <div>
